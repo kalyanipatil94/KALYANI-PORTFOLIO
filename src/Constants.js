@@ -6,7 +6,7 @@ export const PERSON = {
   email: "kalyanipatil1294@gmail.com",
   location: "San Jose, CA",
   github: "https://github.com/Kalyanipatil1294",          // ✅ updated
-  linkedin: "https://linkedin.com/in/kalyanipatil",
+  linkedin: "https://www.linkedin.com/in/kalyani1294/",
   photo: "https://avatars.githubusercontent.com/u/27810097?v=4",  // ✅ photo added
   summary:
     "Senior Staff Software Engineer & Tech Lead with 8+ years architecting full-stack enterprise platforms. Specialist in designing and scaling end-to-end systems with a patent-pending innovation — transforming complex real-time telemetry into pixel-perfect interfaces that balance security with world-class UX.",

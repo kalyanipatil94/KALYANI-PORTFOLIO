@@ -7,7 +7,7 @@ import Experience from "./sections/Experience";
 import TechStack from "./sections/TechStack";
 import Footer from "./sections/Footer";
 import Projects from "./sections/Projects";
-import { C, fadeUp, inner} from './Constants'
+import { C } from './Constants'
 
 
 // ── ROOT ──────────────────────────────────────────────────────────────────────
